@@ -20,7 +20,7 @@ template = start_split + "\n\n| Topics | Last Updated |\n| -------|-------------
 
 mdfiles.each do |mdfile|
   title = mdfile[0..-4].sub("_", " ").gsub(/\w+/) { |word| word.capitalize }
-  last_updated = File.ctime(mdfile).strftime("Last updated: %d %b")
+  last_updated = File.ctime(mdfile).strftime("%d %b")
   
   template += "|[#{title}](#{mdfile})|#{last_updated}|\n"
 end

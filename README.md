@@ -7,10 +7,10 @@ A source-format agnostic way of providing recommendations
 
 | Topics | Last Updated |
 | -------|--------------|
-|[Books](books.md)|Last updated: 09 Feb|
-|[Podcasts](podcasts.md)|Last updated: 09 Feb|
-|[Short Stories](short_stories.md)|Last updated: 09 Feb|
-|[Twitter Users](twitter_users.md)|Last updated: 09 Feb|
+|[Books](books.md)|09 Feb|
+|[Podcasts](podcasts.md)|09 Feb|
+|[Short Stories](short_stories.md)|09 Feb|
+|[Twitter Users](twitter_users.md)|09 Feb|
 
 ##### Reasoning
 
