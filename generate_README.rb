@@ -16,12 +16,13 @@ start = readme.split(start_split)[0]
 rest = readme.split(start_split)[1]
 finale = rest.split(end_split)[1]
 
-template = start_split + "\n\n| Topics |\n| ---------------------------------|\n"
+template = start_split + "\n\n| Topics | Last Updated |\n| ---------------------------------|\n"
 
 mdfiles.each do |mdfile|
   title = mdfile[0..-4].sub("_", " ").gsub(/\w+/) { |word| word.capitalize }
+  last_updated = File.ctime(mdfile).strftime("Last updated: %d %b")
   
-  template += "|[#{title}](#{mdfile})|\n"
+  template += "|[#{title}](#{mdfile})|#{last_updated}|\n"
 end
 
 new_file = start + template + "\n" + end_split + finale
