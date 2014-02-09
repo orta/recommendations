@@ -3,6 +3,7 @@
 | Recommendation       | Explanation |
 | -------------------- |-------------|
 | [The Last Question](http://filer.case.edu/dts8/thelastq.htm) | Probably the most memorable short story I've ever read. (5 mins) |
+| [The Last Answer](http://www.thrivenotes.com/the-last-answer/) | The response to the above. |
 
 
 ### Rationalism
