@@ -14,3 +14,5 @@ A source-format agnostic way of providing recommendations
 ##### Reasoning
 
 I'm not too opinionated in the sense that I think I know better than everyone, but in true don't repeat yourself fashion I'm trying to make a collection of recommendations.
+
+Pull requests are welcome, but will be based on my taste.
