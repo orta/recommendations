@@ -16,7 +16,7 @@ start = readme.split(start_split)[0]
 rest = readme.split(start_split)[1]
 finale = rest.split(end_split)[1]
 
-template = start_split + "\n\n| Topics | Last Updated |\n| ---------------------------------|\n"
+template = start_split + "\n\n| Topics | Last Updated |\n| -------|--------------|\n"
 
 mdfiles.each do |mdfile|
   title = mdfile[0..-4].sub("_", " ").gsub(/\w+/) { |word| word.capitalize }

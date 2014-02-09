@@ -6,7 +6,7 @@ A source-format agnostic way of providing recommendations
 ##### Summary
 
 | Topics | Last Updated |
-| ---------------------------------|
+| -------|--------------|
 |[Books](books.md)|Last updated: 09 Feb|
 |[Podcasts](podcasts.md)|Last updated: 09 Feb|
 |[Short Stories](short_stories.md)|Last updated: 09 Feb|
