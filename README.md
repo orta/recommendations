@@ -9,8 +9,8 @@ A source-format agnostic way of providing recommendations
 | -------|--------------|
 |[Books](books.md)|09 Feb|
 |[Podcasts](podcasts.md)|09 Feb|
-|[Short Stories](short_stories.md)|09 Feb|
-|[Twitter Users](twitter_users.md)|09 Feb|
+|[Short Stories](short_stories.md)|11 Feb|
+|[Twitter Users](twitter_users.md)|11 Feb|
 
 ##### Reasoning
 
