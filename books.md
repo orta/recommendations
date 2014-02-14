@@ -5,7 +5,7 @@
 | [HPMOR](http://hpmor.com) | This took the throne of being my favourite book this year. Harrowing. Beautiful. I can discuss it at length. Fan-fiction, no joke. Great. |
 | [The Dark Tower](http://www.stephenking.com/DarkTower/) | Stephen King's greatest. |
 
-#### People
+#### Sci Fi
 
 | Recommendation       | Explanation |
 | -------------------- |-------------|
