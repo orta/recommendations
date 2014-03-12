@@ -8,6 +8,7 @@ A source-format agnostic way of providing recommendations.
 | Topics | Last Updated |
 | -------|--------------|
 |[Books](books.md)|21 Feb|
+|[Mac-Apps](mac-apps.md)|12 Mar|
 |[Podcasts](podcasts.md)|09 Feb|
 |[Short Stories](short_stories.md)|11 Feb|
 |[Twitter-Users-iOS-Devs](twitter-users-ios-devs.md)|01 Mar|
