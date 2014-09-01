@@ -13,7 +13,9 @@ class TwitterRecommendations
     lists.each do |list|
       next if list.mode != "public"
 
-      file_path = Dir.pwd + '/../twitter-users-' + list.slug + '.md'
+      p "Looking at: " + list.name
+
+      file_path = Dir.pwd + '/twitter-users-' + list.slug + '.md'
       File.unlink file_path if File.exists? file_path
 
       file_string = "## " + list.name
@@ -35,12 +37,12 @@ class TwitterRecommendations
           file_string += "|[#{user_name}](http://twitter.com/#{user_id})|#{user_description}|#{user_url}|\n"
       end
 
-      File.open(file_path, 'w') { |f| f.write file_string }
+      File.open(file_path, 'w+') { |f| f.write file_string }
     end
   end
-  
-  private 
-  
+
+  private
+
   def get_twitter_client
     Twitter::REST::Client.new do |config|
       config.consumer_key        = "1QaLPhCqKhOeji8WW7Rgrg"
@@ -60,5 +62,5 @@ class TwitterRecommendations
     end
     return result
   end
-  
+
 end

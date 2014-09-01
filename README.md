@@ -7,12 +7,13 @@ A source-format agnostic way of providing recommendations.
 
 | Topics | Last Updated |
 | -------|--------------|
-|[Books](books.md)|21 Feb|
-|[Mac-Apps](mac-apps.md)|12 Mar|
-|[Podcasts](podcasts.md)|09 Feb|
-|[Short Stories](short_stories.md)|11 Feb|
-|[Twitter-Users-iOS-Devs](twitter-users-ios-devs.md)|01 Mar|
-|[Twitter-Users-News](twitter-users-news.md)|01 Mar|
+|[Books](books.md)|31 Aug|
+|[Mac-Apps](mac-apps.md)|31 Aug|
+|[Nyc Meetups](nyc_meetups.md)|31 Aug|
+|[Podcasts](podcasts.md)|31 Aug|
+|[Short Stories](short_stories.md)|31 Aug|
+|[Twitter-Users-iOS-Devs](twitter-users-ios-devs.md)|31 Aug|
+|[Twitter-Users-News](twitter-users-news.md)|31 Aug|
 
 ##### Reasoning
 

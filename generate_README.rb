@@ -1,8 +1,7 @@
 Dir["./generators/*.rb"].each {|file| require_relative file }
 
-# twitter = TwitterRecommendations.new
-# twitter.twitter_id = "orta"
-# twitter.download
+twitter = TwitterRecommendations.new
+twitter.download
 
 AppRecommendations.new.recommend
 TableOfContents.new.create
