@@ -1,6 +1,6 @@
 ## NYC iOS
 
-| Person | Description | Site | 
+| Person | Description | Site |
 |--------|-------------|------|
 |[Heidi Hansen](http://twitter.com/jungledev)|Ambitious iOS Dev, prior Jungle Homesteader.  green designer, natural builder, food systems educator, gardener, hunter, butcher, leatherworker, food fermenter.|[heidihansen.org](https://twitter.com/orta/nyc-ios)|
 |[michael hoffman](http://twitter.com/MHoff1308)|||
@@ -19,10 +19,9 @@
 |[Salvatore Randazzo](http://twitter.com/SalNY)|Lead Dev iOS/mobile @PaperlessPost|[salvatorerandazzo.com](https://twitter.com/orta/nyc-ios)|
 |[▰〜〜〜〜〜〜❑❒](http://twitter.com/1aurabrown)|≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈||
 |[Bryan Irace](http://twitter.com/irace)|Writes iOS applications at @Tumblr|[irace.me](https://twitter.com/orta/nyc-ios)|
-|[eugene yee](http://twitter.com/yujean)|Creator of Super Friend. iOS Engineer @meetup. CMU 2006||
-|[Chamara Paul](http://twitter.com/chamwow)|Mobile + Web Software Engineer, rock climber, former Virginia slim|[about.me/chamarapaul](https://twitter.com/orta/nyc-ios)|
+|[eugene yee](http://twitter.com/yujean)|Creator of Super Friend. iOS Engineer @meetup. CMU 2006|||[Chamara Paul](http://twitter.com/chamwow)|Mobile + Web Software Engineer, rock climber, former Virginia slim|[about.me/chamarapaul](https://twitter.com/orta/nyc-ios)|
 |[jchung02](http://twitter.com/jchung02)|Co-founder of Klooff • Artist-designer-filmmaker-entreprenuer  http://t.co/vrDAm1OgWI|[byjanechung.com](https://twitter.com/orta/nyc-ios)|
 |[Klaas Pieter Annema](http://twitter.com/klaaspieter)|iOS and Android at @yourkarma. Ex @madebysofa. Drummer. Runner.|[annema.me](https://twitter.com/orta/nyc-ios)|
 |[Lacy Rhoades](http://twitter.com/lacyrhoades)|Transcendentally||
 |[Dave Wiskus](http://twitter.com/dwiskus)|High school dropout.|[betterelevation.com](https://twitter.com/orta/nyc-ios)|
-|[Matthew Bischoff](http://twitter.com/mb)|iOS at @tumblr.  Co-creator of @quotebookapp and @velocityapp at @lickability.  Post-postmodern.|[matthewbischoff.com](https://twitter.com/orta/nyc-ios)|
+|[Matthew Bischoff](http://twitter.com/mb)|iOS at @tumblr. Co-creator of @quotebookapp and @velocityapp at @lickability.  Post-postmodern.|[matthewbischoff.com](https://twitter.com/orta/nyc-ios)|
