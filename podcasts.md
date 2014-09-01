@@ -1,8 +1,8 @@
-### Tech 
+### Tech
 
 | Recommendation       | Explanation |
 | -------------------- |-------------|
-| [Edge Cases](http://edgecasesshow.com) | Highly technical, lots of great raw content. Not a fan that they are quite anti-CocoaPods.|
+| [Edge Cases](http://edgecasesshow.com) | Highly technical, lots of great raw content. Get a bit of a "get off my lawn" vibe from it but can be lived with. |
 | [Springboard](http://springboardshow.com) | Cute, useful to me as someone interested in how people learn iOS. I was on it. Gets extra kudos. |
 
 ### Politics

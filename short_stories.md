@@ -14,8 +14,6 @@
 | [npc](http://yudkowsky.net/other/fiction/npc) | What happens when an Ai talks back (5 mins) |
 
 
-
-
 ##### Notes
 
 Can't find the one I want, it was a story about people being eaten by a dragon/monster and was about defeating death.

@@ -4,6 +4,8 @@
 | -------------------- |-------------|
 | [HPMOR](http://hpmor.com) | This took the throne of being my favourite book this year. Harrowing. Beautiful. I can discuss it at length. Fan-fiction, no joke. Great. |
 | [The Dark Tower](http://www.stephenking.com/DarkTower/) | Stephen King's greatest. |
+| [Worm](http://parahumans.wordpress.com/about//) | Unforgettable coming of age as a super heroine book.  |
+
 
 #### Sci Fi
 
