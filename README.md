@@ -12,7 +12,7 @@ A source-format agnostic way of providing recommendations.
 |[Nyc Meetups](nyc_meetups.md)|31 Aug|
 |[Podcasts](podcasts.md)|31 Aug|
 |[Short Stories](short_stories.md)|31 Aug|
-|[Twitter-Users-iOS-Devs](twitter-users-ios-devs.md)|31 Aug|
+|[Twitter-Users-NYC-iOS](twitter-users-nyc-ios.md)|31 Aug|
 |[Twitter-Users-News](twitter-users-news.md)|31 Aug|
 
 ##### Reasoning
