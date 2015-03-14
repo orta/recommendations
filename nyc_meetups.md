@@ -7,5 +7,5 @@
 |[Brooklyn Swift Developers](http://www.meetup.com/Brooklyn-Swift-Developers/)|New, but seems to have the most potential.| On Meetup |
 |[Brooklyn iOS Developers](http://www.meetup.com/The-Brooklyn-iPhone-and-iPad-Developer-Meetup/)|Great meetup to get a sense of the community| On Meetup |
 |[iOS SoHo](http://www.meetup.com/iOSoho/)|Most talks are focused towards scaling apps| On Meetup |
-|[iOS IRL](http://iosirl.com/)|A meetup without the talks | Sign up for their mailing list / [@iOSIRL](http://twitter.com/iOSIRL) |
+|[iOS IRL](http://iosirl.com/)|A meetup without the talks | Sign up for their [mailing list](http://iosirl.us10.list-manage.com/subscribe?u=4fb41c7de97024f57234df77e&id=69b216ec63) / [@iOSIRL](http://twitter.com/iOSIRL) |
 |[CocoaHeadsNYC](http://www.cocoaheadsnyc.org)| Long running, been a few times and enjoyed | Sign up for their [mailing list](https://groups.google.com/forum/#!forum/cocoaheadsnyc) / [@cocoaheadsnyc](http://twitter.com/cocoaheadsnyc) |
