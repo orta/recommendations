@@ -1,7 +1,7 @@
 ## iOS Meetups
 
 | Name     | It's niche | How to keep in touch |
-|----------|----------|
+|----------|----------|---|
 |[CocoaPods NYC](http://www.meetup.com/CocoaPods-NYC/)|Mine, so obviously awesome.| On Meetup |
 |[New York iOS Dev Meetup](http://www.meetup.com/new-york-ios-developer/)|The big one, brings in people from out of town. Always pretty epic.| On Meetup |
 |[Brooklyn Swift Developers](http://www.meetup.com/Brooklyn-Swift-Developers/)|New, but seems to have the most potential.| On Meetup |
