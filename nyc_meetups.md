@@ -8,4 +8,4 @@
 |[Brooklyn iOS Developers](http://www.meetup.com/The-Brooklyn-iPhone-and-iPad-Developer-Meetup/)|Great meetup to get a sense of the community| On Meetup |
 |[iOS SoHo](http://www.meetup.com/iOSoho/)|Most talks are focused towards scaling apps| On Meetup |
 |[iOS IRL](http://iosirl.com/)|A meetup without the talks | Sign up for their mailing list / [@iOSIRL](http://twitter.com/iOSIRL) |
-|[CocoaHeadsNYC](http://iosirl.com)|http://www.cocoaheadsnyc.org| Long running, been a few times and enjoyed | Sign up for their [mailing list](https://groups.google.com/forum/#!forum/cocoaheadsnyc) / [@cocoaheadsnyc](http://twitter.com/cocoaheadsnyc) |
+|[CocoaHeadsNYC](http://www.cocoaheadsnyc.org)| Long running, been a few times and enjoyed | Sign up for their [mailing list](https://groups.google.com/forum/#!forum/cocoaheadsnyc) / [@cocoaheadsnyc](http://twitter.com/cocoaheadsnyc) |
