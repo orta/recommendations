@@ -63,7 +63,7 @@ These are my `brew cask` Apps
 |[HockeyCoach]|[http://hockeyapp.net/releases/hockeycoach/](http://hockeyapp.net/releases/hockeycoach/)|`brew cask info hockeycoach`|
 |[iExplorer]|[http://www.macroplant.com/](http://www.macroplant.com/)|`brew cask info iexplorer`|
 |[ImageOptim]|[http://imageoptim.com/](http://imageoptim.com/)|`brew cask info imageoptim`|
-|[iTerm]|[googlecode.com](http://googlecode.com)|`brew cask info iterm`|
+|[iTerm]|[iterm2.com](http://iterm2.com/)|`brew cask info iterm`|
 |[Kaleidoscope]|[http://www.kaleidoscopeapp.com/](http://www.kaleidoscopeapp.com/)|`brew cask info kaleidoscope`|
 |[KeePassX]|[http://www.keepassx.org](http://www.keepassx.org)|`brew cask info keepassx`|
 |[NetNewsWire]|[http://netnewswireapp.com/](http://netnewswireapp.com/)|`brew cask info netnewswire`|
