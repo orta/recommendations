@@ -54,7 +54,7 @@ These are my `brew cask` Apps
 |[Bartender]|[macbartender.com](http://www.macbartender.com/)|`brew cask info bartender`|
 |[calibre]|[calibre-ebook.com](http://calibre-ebook.com/)|`brew cask info calibre`|
 |[Colloquy]|[colloquy.info](http://colloquy.info/)|`brew cask info colloquy`|
-|[Doxygen]|[stack.nl/~dimitri/doxygen/index.html](http://www.stack.nl/~dimitri/doxygen/index.html)|`brew cask info doxygen`|
+|[Doxygen]|[stack.nl/~dimitri/doxygen](http://www.stack.nl/~dimitri/doxygen)|`brew cask info doxygen`|
 |[Dropbox]|[dropbox.com](https://www.dropbox.com/)|`brew cask info dropbox`|
 |[Firefox]|[mozilla.org/en-US/firefox](https://www.mozilla.org/en-US/firefox/)|`brew cask info firefox`|
 |[Flowdock]|[flowdock.com/help/desktop](https://www.flowdock.com/help/desktop)|`brew cask info flowdock`|
@@ -75,7 +75,7 @@ These are my `brew cask` Apps
 |[Skype]|[skype.com](http://www.skype.com)|`brew cask info skype`|
 |[Spotify]|[spotify.com](https://www.spotify.com)|`brew cask info spotify`|
 |[Steam]|[store.steampowered.com/about](http://store.steampowered.com/about/)|`brew cask info steam`|
-|[TextExpander]|[smilesoftware.com/TextExpander/index.html](http://www.smilesoftware.com/TextExpander/index.html)|`brew cask info textexpander`|
+|[TextExpander]|[smilesoftware.com/TextExpander](http://www.smilesoftware.com/TextExpander)|`brew cask info textexpander`|
 |[TextMate]|[macromates.com](http://macromates.com/)|`brew cask info textmate`|
 |[VLC]|[videolan.org/vlc](http://www.videolan.org/vlc/)|`brew cask info vlc`|
 
