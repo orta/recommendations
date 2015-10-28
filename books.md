@@ -15,6 +15,15 @@
 | [Eating Animals](http://www.amazon.co.uk/gp/product/B00390BE7G/) | Interesting essay on the authors dilema of should I raise my kid a vegetarian. |
 
 
+#### The none programming bits of programming
+
+| Recommendation       | Explanation |
+| -------------------- |-------------|
+| [Leadership & Self Deception.](http://www.amazon.com/Leadership-Self-Deception-Getting-Out-Box/dp/1576759776) | Neatly lets you introspect your past to uncover where you've wanted others to fail.|
+| [Tribal Leadership](http://about.zappos.com/tribal) | How we do leadership at Artsy.|
+
+
+
 #### Programming
 
 | Recommendation       | Explanation |
