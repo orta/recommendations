@@ -25,6 +25,7 @@
 
 | Recommendation       | Explanation |
 | -------------------- |-------------|
+| [Machines of Loving Grace.](http://www.audible.com/pd/Machines-of-Loving-Grace-Audiobook/B00Y3YJ9JC) | How humans interact with technology.|
 | [Leadership & Self Deception.](http://www.amazon.com/Leadership-Self-Deception-Getting-Out-Box/dp/1576759776) | Neatly lets you introspect your past to uncover where you've wanted others to fail.|
 | [Tribal Leadership](http://about.zappos.com/tribal) | How we do leadership at Artsy.|
 
