@@ -6,6 +6,12 @@
 | [The Dark Tower](http://www.stephenking.com/DarkTower/) | Stephen King's greatest. |
 | [Worm](http://parahumans.wordpress.com/about//) | Unforgettable coming of age as a super heroine book.  |
 
+#### Speculative fiction
+
+| Recommendation       | Explanation |
+| -------------------- |-------------|
+| [Stories of Your Life and Others](https://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others) | Eight short stories, all beautiful and complex. |
+
 #### Life
 
 | Recommendation       | Explanation |
