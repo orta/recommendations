@@ -30,7 +30,14 @@
 | [Tribal Leadership](http://about.zappos.com/tribal) | How we do leadership at Artsy.|
 
 
+#### Design
 
+| Recommendation       | Explanation |
+| -------------------- |-------------|
+| [Design for Hackers](http://www.amazon.co.uk/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s01) | Simple collection of rules. |
+| [Design for Software: A Playbook for Developers](http://www.amazon.co.uk/Design-Software-A-Playbook-Developers/dp/111994290X?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s00) | Simple collection of rules. |
+| [Thinking with Type](http://www.amazon.co.uk/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s01) | Reviews don't seem amazing, but I really liked the 1st edition, so YOLO. |
+| [Information is Beautiful](http://www.amazon.co.uk/Information-Beautiful-Edition-David-McCandless-x/dp/0007492898?ie=UTF8&keywords=information%20is%20beautiful&qid=1460045737&ref_=sr_1_1&sr=8-1) | Less of a pragmatic book, but a great ideas resource for presenting complex information. |
 #### Programming
 
 | Recommendation       | Explanation |
