@@ -21,7 +21,7 @@
 | [Eating Animals](http://www.amazon.co.uk/gp/product/B00390BE7G/) | Interesting essay on the authors dilema of should I raise my kid a vegetarian. |
 
 
-#### The none programming bits of programming
+#### The non-programming bits of programming
 
 | Recommendation       | Explanation |
 | -------------------- |-------------|
