@@ -45,4 +45,4 @@
 | [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) |  Super useful for getting solid foundations. |
 | [Big Nerd Objective-C Books](http://www.bignerdranch.com/we-write/) |  My first step into obj-c was Cocoa Programming for OSX 1st edition. |
 | [Working Effectively With Legacy Code](http://www.amazon.co.uk/gp/product/B005OYHF0A/) |  Code with no tests = legacy. How to deal with this.|
-| [Growing Object-Orients Software, Guided by Tests](http://www.amazon.co.uk/Growing-Object-Oriented-Software-Guided-Signature/dp/0321503627/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=growing+object-oriented+software+guided+by+tests) | The story of how TDD got created, and techniques for applying testing to projects. |
+| [Growing Object-Oriented Software, Guided by Tests](http://www.amazon.co.uk/Growing-Object-Oriented-Software-Guided-Signature/dp/0321503627/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=growing+object-oriented+software+guided+by+tests) | The story of how TDD got created, and techniques for applying testing to projects. |
