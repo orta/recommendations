@@ -33,7 +33,7 @@ OK, so you have to pick one?
 | [The Collapsing Empire: The Interdependency](https://www.goodreads.com/book/show/30078567-the-collapsing-empire) | My first space opera, still the best I've read. |
 | [Children of Time](https://www.audible.com/pd/Sci-Fi-Fantasy/Children-of-Time-Audiobook/B071Y9TTHC?ref=a_a_library_c4_libItem_15_B071Y9TTHC&pf_rd_p=ae76b2bb-e63d-4a67-b357-dab3dee05ca1&pf_rd_r=CJM15AZQ3BX2BB76XH2E&) | A book I found about time travel, that wasn't about time travel. |
 | [The Three Body Problem](https://www.audible.com/pd/Sci-Fi-Fantasy/The-Three-Body-Problem-Audiobook/B00P0277C2?ref=a_a_library_c4_libItem_8_B00P0277C2&pf_rd_p=ae76b2bb-e63d-4a67-b357-dab3dee05ca1&pf_rd_r=508W7VJ326X9N4RJ8B9P&&) | Stunning chinese sci-fi. |
-
+| [The Quantum Thief](https://www.audible.com/pd/The-Quantum-Thief-Audiobook/B00505UB2W?qid=1535398537&sr=sr_1_3&ref=a_search_c3_lProduct_1_3&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=R59HNQ54XYQXVNF80RR8&) | "ubiquitous public-key encryption, people communicating by sharing memories, and a race of hyper-advanced humans who originated as MMORPG guild members" |
 
 #### Life
 
