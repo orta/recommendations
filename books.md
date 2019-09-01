@@ -25,7 +25,7 @@ OK, so you have to pick one?
 | [Version Control](https://www.audible.com/pd/Sci-Fi-Fantasy/Version-Control-Audiobook/B01BKY8A8I?ref=a_a_library_c4_libItem_15_B01BKY8A8I&pf_rd_p=ae76b2bb-e63d-4a67-b357-dab3dee05ca1&pf_rd_r=508W7VJ326X9N4RJ8B9P&) | Like [primer](https://www.rottentomatoes.com/m/primer/), but in a book form, and a easier to understand. |
 | [Stories of Your Life and Others](https://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others) | Eight short stories, all beautiful and complex. |
 | [Exhalation: Stories](https://www.audible.com/pd/Exhalation-Audiobook/1984844458?pf_rd_p=ae76b2bb-e63d-4a67-b357-dab3dee05ca1&pf_rd_r=RFS7RD5JMNK99EYQY8ZK&ref=a_lib_c4_libItem_1984844458) | Same author as ^ all just as great. |
-| [After On: A Novel of Silicon Valley](https://www.audible.com/pd/Fiction/After-On-Audiobook/B06ZZXC8VJ?ref=a_a_library_c4_libItem_16_B06ZZXC8VJ&pf_rd_p=ae76b2bb-e63d-4a67-b357-dab3dee05ca1&pf_rd_r=CJM15AZQ3BX2BB76XH2E&) | Eight short stories, all beautiful and complex. |
+| [After On: A Novel of Silicon Valley](https://www.audible.com/pd/Fiction/After-On-Audiobook/B06ZZXC8VJ?ref=a_a_library_c4_libItem_16_B06ZZXC8VJ&pf_rd_p=ae76b2bb-e63d-4a67-b357-dab3dee05ca1&pf_rd_r=CJM15AZQ3BX2BB76XH2E&) | A clever parody of silicon valley with a [great podcast](https://after-on.com). |
 | [HPMOR](http://hpmor.com) | Harrowing. Beautiful. I can discuss it at length. Fan-fiction, no joke. Great. |
 
 
