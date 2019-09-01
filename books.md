@@ -5,7 +5,7 @@ OK, so you have to pick one?
 - **Calm, reflective, thinky book** - [Version Control](https://www.audible.com/pd/Sci-Fi-Fantasy/Version-Control-Audiobook/B01BKY8A8I?ref=a_a_library_c4_libItem_15_B01BKY8A8I&pf_rd_p=ae76b2bb-e63d-4a67-b357-dab3dee05ca1&pf_rd_r=508W7VJ326X9N4RJ8B9P&)
 - **Scale of protagonist impact** - [Worm](http://parahumans.wordpress.com/about/) 
 - **Being more optimistic** - [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress](https://www.audible.com/pd/Nonfiction/Enlightenment-Now-Audiobook/B075FBZBLT?ref=a_a_library_c4_libItem_0_B075FBZBLT&pf_rd_p=ae76b2bb-e63d-4a67-b357-dab3dee05ca1&pf_rd_r=508W7VJ326X9N4RJ8B9P&)
-- Light hearted, but tech - [After On: A Novel of Silicon Valley](https://www.audible.com/pd/Fiction/After-On-Audiobook/B06ZZXC8VJ?ref=a_a_library_c4_libItem_16_B06ZZXC8VJ&pf_rd_p=ae76b2bb-e63d-4a67-b357-dab3dee05ca1&pf_rd_r=CJM15AZQ3BX2BB76XH2E&)
+- **Light hearted, but tech realted** - [After On: A Novel of Silicon Valley](https://www.audible.com/pd/Fiction/After-On-Audiobook/B06ZZXC8VJ?ref=a_a_library_c4_libItem_16_B06ZZXC8VJ&pf_rd_p=ae76b2bb-e63d-4a67-b357-dab3dee05ca1&pf_rd_r=CJM15AZQ3BX2BB76XH2E&)
 - **A dark story** - [The Library at Mount Char](https://www.penguinrandomhouse.com/books/240942/the-library-at-mount-char-by-scott-hawkins/9780553418620/)
 
 #### Fiction
