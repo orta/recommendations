@@ -1,3 +1,5 @@
+Deprecated by https://orta.io/notes
+
 Recommendations
 ===============
 
